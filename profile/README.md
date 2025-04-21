@@ -7,8 +7,8 @@ BigDataTeam5 is an organization focused on developing cutting-edge data engineer
 
 ## Our Team
 
-- Yash Khavnekar
 - Shushil Girish
+- Yash Khavnekar
 - Riya Mate
 
 ## Repository Portfolio
