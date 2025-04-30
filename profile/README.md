@@ -33,6 +33,7 @@ An intelligent analytics platform for understanding healthcare market segments u
 - **Healthcare Segments**: Diagnostic, Supplement, OTC Pharmaceutical, Fitness Wearable, Skin Care
 - **RAG System**: Provides access to marketing knowledge from Philip Kotler's Marketing Management book
 - **Deployment**: Multi-server architecture with unified and specialized microservices
+- **Demo** : https://marketscope-ai-powered-industry-segment-intelligence-platform.streamlit.app/
 
 ### 3. [Incremental Data Pipeline using Snowflake](https://github.com/BigDataTeam5/Incremental_DataPipleine_using_Snowflake)
 
@@ -52,6 +53,7 @@ An end-to-end solution for building a master financial statement database for US
 - **Technologies**: Snowflake, Airflow, dbt, AWS S3, Streamlit, FastAPI
 - **Deployment**: Google Cloud Run (FastAPI), Streamlit built-in deployment
 - **Demo Application**: Financial analytics dashboard with fundamental analysis capabilities
+- **Demo Link(Streamlit)**: http://34.56.233.252:8501/
 
 ### 5. [Building a RAG Pipeline with Airflow](https://github.com/BigDataTeam5/Building-a-RAG-Pipeline-with-Airflow)
 
